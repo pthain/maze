@@ -1,4 +1,4 @@
-import { Entity } from "./Entity"
+import { Entity } from "./entity"
 
 /*
 *   This class represents a speaker entity
