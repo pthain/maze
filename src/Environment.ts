@@ -2,6 +2,6 @@
 * This class represents a setting for entities to act in.
 */
 
-export class Environmnet {
+export class Environment {
     //Empty for now
 }
